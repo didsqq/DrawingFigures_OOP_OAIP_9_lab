@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\reversepolishnotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|solutionrelative:\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\reversepolishnotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|c:\\users\\\u0430\u0434\u0435\u043B\u044C\\desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u043E\u0430\u0438\u043F\\oaip.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\shapecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|solutionrelative:\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\shapecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\\u0444\u0438\u0433\u0443\u0440\u044B\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|solutionrelative:\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\\u0444\u0438\u0433\u0443\u0440\u044B\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\\u0444\u0438\u0433\u0443\u0440\u044B\\ellips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|solutionrelative:\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\\u0444\u0438\u0433\u0443\u0440\u044B\\ellips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|solutionrelative:\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\\u0444\u043E\u0440\u043C\u044B\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|solutionrelative:\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\\u0444\u043E\u0440\u043C\u044B\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\\u0444\u0438\u0433\u0443\u0440\u044B\\mineline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811931B-EB99-46F6-BF23-D34278729082}|\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430.csproj|solutionrelative:\u043E\u0430\u0438\u043F.2\u043B\u0430\u0431\u0430\\\u0444\u0438\u0433\u0443\u0440\u044B\\mineline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeContainer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\ShapeContainer.cs",
+              "RelativeDocumentMoniker": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\ShapeContainer.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\ShapeContainer.cs",
+              "RelativeToolTip": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\ShapeContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:22:40.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MineLine.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u0438\u0433\u0443\u0440\u044B\\MineLine.cs",
+              "RelativeDocumentMoniker": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u0438\u0433\u0443\u0440\u044B\\MineLine.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u0438\u0433\u0443\u0440\u044B\\MineLine.cs",
+              "RelativeToolTip": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u0438\u0433\u0443\u0440\u044B\\MineLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:17:56.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Init.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\Init.cs",
+              "RelativeDocumentMoniker": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\Init.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\Init.cs",
+              "RelativeToolTip": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:06:58.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u0438\u0433\u0443\u0440\u044B\\Figure.cs",
+              "RelativeDocumentMoniker": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u0438\u0433\u0443\u0440\u044B\\Figure.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u0438\u0433\u0443\u0440\u044B\\Figure.cs",
+              "RelativeToolTip": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u0438\u0433\u0443\u0440\u044B\\Figure.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:16:08.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ellips.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u0438\u0433\u0443\u0440\u044B\\Ellips.cs",
+              "RelativeDocumentMoniker": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u0438\u0433\u0443\u0440\u044B\\Ellips.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u0438\u0433\u0443\u0440\u044B\\Ellips.cs",
+              "RelativeToolTip": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u0438\u0433\u0443\u0440\u044B\\Ellips.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:13:02.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReversePolishNotation.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\ReversePolishNotation.cs",
+              "RelativeDocumentMoniker": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\ReversePolishNotation.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\ReversePolishNotation.cs",
+              "RelativeToolTip": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\ReversePolishNotation.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwD8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:44:26.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u043E\u0440\u043C\u044B\\Form1.cs",
+              "RelativeDocumentMoniker": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u043E\u0440\u043C\u044B\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u041E\u0410\u0418\u041F\\OAIP.9lab \u2014 \u043A\u043E\u043F\u0438\u044F\\\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u043E\u0440\u043C\u044B\\Form1.cs",
+              "RelativeToolTip": "\u041E\u0410\u0418\u041F.2\u043B\u0430\u0431\u0430\\\u0424\u043E\u0440\u043C\u044B\\Form1.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowJAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T13:20:22.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

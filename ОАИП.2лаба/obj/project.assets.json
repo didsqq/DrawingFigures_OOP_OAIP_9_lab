@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "MyLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/MyLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyLib/1.0.0": {
+      "type": "project",
+      "path": "../MyLib/MyLib.csproj",
+      "msbuildProject": "../MyLib/MyLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "MyLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Адель\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Адель\\Desktop\\шарага\\ОАИП\\OAIP.9lab — копия\\ОАИП.2лаба\\ОАИП.2лаба.csproj",
+      "projectName": "ОАИП.2лаба",
+      "projectPath": "C:\\Users\\Адель\\Desktop\\шарага\\ОАИП\\OAIP.9lab — копия\\ОАИП.2лаба\\ОАИП.2лаба.csproj",
+      "packagesPath": "C:\\Users\\Адель\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Адель\\Desktop\\шарага\\ОАИП\\OAIP.9lab — копия\\ОАИП.2лаба\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Адель\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Адель\\Desktop\\шарага\\ОАИП\\OAIP.9lab — копия\\MyLib\\MyLib.csproj": {
+              "projectPath": "C:\\Users\\Адель\\Desktop\\шарага\\ОАИП\\OAIP.9lab — копия\\MyLib\\MyLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Господин\Desktop\OAIP.8lab — копия — копия\ОАИП.2лаба\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Формы\FormCircle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\FormEllips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\FormTriangle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\FormRocket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\FormPolygon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\FormMinePolygon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\FormRectangle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формы\FormSquare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
