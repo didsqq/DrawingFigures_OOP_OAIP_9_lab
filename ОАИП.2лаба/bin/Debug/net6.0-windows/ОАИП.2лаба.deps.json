@@ -7,27 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ОАИП.2лаба/1.0.0": {
-        "dependencies": {
-          "MyLib": "1.0.0"
-        },
         "runtime": {
           "ОАИП.2лаба.dll": {}
-        }
-      },
-      "MyLib/1.0.0": {
-        "runtime": {
-          "MyLib.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ОАИП.2лаба/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "MyLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

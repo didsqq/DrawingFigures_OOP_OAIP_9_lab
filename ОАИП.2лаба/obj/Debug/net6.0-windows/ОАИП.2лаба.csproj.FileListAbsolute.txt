@@ -250,3 +250,28 @@ C:\Users\Адель\Desktop\шарага\ОАИП\OAIP.9lab — копия\ОА�
 C:\Users\Адель\Desktop\шарага\ОАИП\OAIP.9lab — копия\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП.2лаба.pdb
 C:\Users\Адель\Desktop\шарага\ОАИП\OAIP.9lab — копия\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП.2лаба.genruntimeconfig.cache
 C:\Users\Адель\Desktop\шарага\ОАИП\OAIP.9lab — копия\ОАИП.2лаба\obj\Debug\net6.0-windows\ref\ОАИП.2лаба.dll
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\bin\Debug\net6.0-windows\ОАИП.2лаба.exe
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\bin\Debug\net6.0-windows\ОАИП.2лаба.deps.json
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\bin\Debug\net6.0-windows\ОАИП.2лаба.runtimeconfig.json
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\bin\Debug\net6.0-windows\ОАИП.2лаба.dll
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\bin\Debug\net6.0-windows\ОАИП.2лаба.pdb
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП._2лаба.Form1.resources
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП._2лаба.FormCircle.resources
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП._2лаба.FormEllips.resources
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП._2лаба.FormMinePolygon.resources
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП._2лаба.FormPolygon.resources
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП._2лаба.FormRectangle.resources
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП._2лаба.FormRocket.resources
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП._2лаба.FormSquare.resources
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП._2лаба.FormTriangle.resources
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП.2лаба.csproj.GenerateResource.cache
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП.2лаба.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП.2лаба.AssemblyInfoInputs.cache
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП.2лаба.AssemblyInfo.cs
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП.2лаба.csproj.CoreCompileInputs.cache
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП.2лаба.sourcelink.json
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП.2лаба.dll
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\refint\ОАИП.2лаба.dll
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП.2лаба.pdb
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ОАИП.2лаба.genruntimeconfig.cache
+C:\Users\Господин\Desktop\OAIP_9\ОАИП.2лаба\obj\Debug\net6.0-windows\ref\ОАИП.2лаба.dll

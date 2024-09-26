@@ -1,6 +1,0 @@
-C:\Users\Господин\Desktop\OAIP.8lab — копия — копия\MyLib\bin\Release\MyLib.dll
-C:\Users\Господин\Desktop\OAIP.8lab — копия — копия\MyLib\bin\Release\MyLib.pdb
-C:\Users\Господин\Desktop\OAIP.8lab — копия — копия\MyLib\obj\Release\MyLib.csproj.AssemblyReference.cache
-C:\Users\Господин\Desktop\OAIP.8lab — копия — копия\MyLib\obj\Release\MyLib.csproj.CoreCompileInputs.cache
-C:\Users\Господин\Desktop\OAIP.8lab — копия — копия\MyLib\obj\Release\MyLib.dll
-C:\Users\Господин\Desktop\OAIP.8lab — копия — копия\MyLib\obj\Release\MyLib.pdb

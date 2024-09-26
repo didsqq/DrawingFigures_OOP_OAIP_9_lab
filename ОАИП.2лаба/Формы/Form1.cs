@@ -1,7 +1,6 @@
 using System.Drawing;
 using System.Linq.Expressions;
 using System.Windows.Forms;
-using MyLib;
 using ОАИП._2лаба.Фигуры;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
